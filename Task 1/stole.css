@@ -1,0 +1,55 @@
+body{
+
+    background-color:papayawhip;
+}
+
+Table,
+th,
+td {
+    Border: 0.8px solid black;
+    Border-radius: 10px;
+    border-color: blueviolet;
+}
+
+Button {
+    Justify-content: space-between;
+    Padding: 20px;
+    Border-collapse: collapse;
+    Width: 100%;
+    Font-size: 20px;
+    Font-family: sans-serif;
+    Background-color: rgb(255, 255, 255);
+}
+
+Input {
+    Width: 78%;
+    Background-color: rgb(255, 251, 251);
+    Padding: 21px;
+    Border-radius: 10px;
+    Margin: 2px;
+    Font-family: sans-serif;
+    Border: 2px;
+}
+button{
+    background-color:rosybrown;
+}
+
+caption {
+     Font-size: 28px;
+    Font-weight: 16px;
+    Color: rgb(0, 0, 0);
+    font-family:sans-serif;
+    font-style: italic;
+    margin: 50px;
+    border: 2px solid purple;
+    border-radius: 10px;
+    padding: 15px;
+    width: 250px;
+}
+
+.center {
+    Margin-left: auto;
+    Margin-right: auto;
+    Padding: auto;
+
+}
